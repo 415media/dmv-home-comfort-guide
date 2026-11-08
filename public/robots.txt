@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+# Draft inventory only; domain configured locally; not deployed or ready for submission.
+Sitemap: https://delmarvahomecomfortguide.com/sitemap.xml

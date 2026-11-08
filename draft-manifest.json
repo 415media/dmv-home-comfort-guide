@@ -1,0 +1,153 @@
+{
+  "domain_status": "Configured locally only; not deployed. Registration/ownership not independently verified.",
+  "routes": [
+    {
+      "route": "/",
+      "file": "index.html",
+      "title": "Delmarva Home Comfort Guide \u2014 local draft",
+      "description": "Unpublished Seaford-first homeowner guide draft: prepare questions about cooling, heating, estimates and future referrals.",
+      "h1": "Delmarva Home Comfort Guide"
+    },
+    {
+      "route": "/areas/seaford-de/",
+      "file": "areas/seaford-de/index.html",
+      "title": "HVAC in Seaford, DE: Repair & Replacement Guide \u2014 draft",
+      "description": "Draft questions for Seaford homeowners comparing AC, heating, heat-pump and maintenance conversations; no referrals available.",
+      "h1": "Heating and cooling help in Seaford, Delaware"
+    },
+    {
+      "route": "/ac/repair/",
+      "file": "ac/repair/index.html",
+      "title": "AC repair questions before a visit \u2014 draft",
+      "description": "Prepare a description of your AC concern and a written-estimate checklist in this unreviewed local draft. No diagnosis or referrals.",
+      "h1": "AC repair: what to ask before a visit"
+    },
+    {
+      "route": "/heating/no-heat/",
+      "file": "heating/no-heat/index.html",
+      "title": "No-heat service conversation checklist \u2014 draft",
+      "description": "An unpublished checklist for discussing a heating concern with a contractor; technical and emergency guidance pending qualified review.",
+      "h1": "No heat? Prepare for a heating-service conversation"
+    },
+    {
+      "route": "/heat-pumps/repair-or-replace/",
+      "file": "heat-pumps/repair-or-replace/index.html",
+      "title": "Heat pump repair or replacement questions \u2014 draft",
+      "description": "Compare the questions to ask about diagnosis, assessment, proposals and warranties without a replacement recommendation or price promise.",
+      "h1": "Heat pump repair, replacement or a new installation?"
+    },
+    {
+      "route": "/maintenance/",
+      "file": "maintenance/index.html",
+      "title": "HVAC maintenance plan questions \u2014 draft",
+      "description": "A homeowner question list for comparing maintenance visits, exclusions, renewal and cancellation terms in an unpublished editorial draft.",
+      "h1": "HVAC maintenance: what to ask before choosing a plan"
+    },
+    {
+      "route": "/about/",
+      "file": "about/index.html",
+      "title": "About this independent homeowner draft",
+      "description": "Draft ownership, editorial review and disclosure plans for Delmarva Home Comfort Guide, developed for Local Loop / 415 Media.",
+      "h1": "About Delmarva Home Comfort Guide"
+    },
+    {
+      "route": "/how-referrals-work/",
+      "file": "how-referrals-work/index.html",
+      "title": "How referrals would work \u2014 inactive draft",
+      "description": "No referrals are available. Read the draft requirements for named recipients, disclosure, consent and response expectations before any future launch.",
+      "h1": "How referrals work: currently unavailable"
+    },
+    {
+      "route": "/privacy/",
+      "file": "privacy/index.html",
+      "title": "Privacy status of the local static draft",
+      "description": "This local prototype has no forms, analytics or lead routing. Local Loop is the reported operator; future recipient and data-flow terms require review.",
+      "h1": "Privacy: local draft and future launch requirements"
+    }
+  ],
+  "brand_assets": [
+    "assets/brand/dhcg-logo-horizontal.svg",
+    "assets/brand/dhcg-logo-horizontal@2x.png",
+    "assets/brand/dhcg-favicon.svg",
+    "assets/brand/favicon.ico"
+  ],
+  "content_integrations": [
+    {
+      "file": "areas/seaford-de/index.html",
+      "fragment": "/workspace/hvac-acceptance/content-expansions/seaford-de.sections.html",
+      "fragment_sha256": "bed63888db64dbf3e77f6bd3c05eb63a83f5cfa9664c45b57307f3cce86a401e",
+      "sections": 3,
+      "external_citation_occurrences": 5,
+      "unique_citations": [
+        "https://climate.udel.edu/delawares-climate/",
+        "https://www.delmarva.com/about-us/company-information",
+        "https://www.demecinc.net/economic-development/seaford/",
+        "https://www.energystar.gov/products/energy_star_home_upgrade/clean_heating_cooling",
+        "https://www.seafordde.com/government/departments_offices/electric"
+      ]
+    },
+    {
+      "file": "ac/repair/index.html",
+      "fragment": "/workspace/hvac-acceptance/content-expansions/ac-repair.sections.html",
+      "fragment_sha256": "5ed4039f765a1c5e1d52a8c9c7269cc12acbd6683e462969e1b462f30baab5c1",
+      "sections": 3,
+      "external_citation_occurrences": 2,
+      "unique_citations": [
+        "https://www.energystar.gov/products/energy_star_home_upgrade/clean_heating_cooling",
+        "https://www.energystar.gov/saveathome/heating-cooling/maintenance-checklist"
+      ]
+    },
+    {
+      "file": "heating/no-heat/index.html",
+      "fragment": "/workspace/hvac-acceptance/content-expansions/heating-no-heat.sections.html",
+      "fragment_sha256": "cdb642c5efa06b76bf2fc480e8dbf11f60756e6aefc92c81ed5f02affcd1ed94",
+      "sections": 4,
+      "external_citation_occurrences": 5,
+      "unique_citations": [
+        "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center/Carbon-Monoxide-Questions-and-Answers",
+        "https://www.energystar.gov/products/energy_star_home_upgrade/clean_heating_cooling",
+        "https://www.energystar.gov/saveathome/heating-cooling/maintenance-checklist",
+        "https://www.nfpa.org/news-blogs-and-articles/blogs/2025/02/13/residential-fuel-gas-alarms-and-nfpa-715"
+      ]
+    },
+    {
+      "file": "heat-pumps/repair-or-replace/index.html",
+      "fragment": "/workspace/hvac-acceptance/content-expansions/heat-pumps-repair-or-replace.sections.html",
+      "fragment_sha256": "1d15b39db49b360d06f492c32051b705e78c421cd1f584d2bfa212bc09690dcc",
+      "sections": 3,
+      "external_citation_occurrences": 2,
+      "unique_citations": [
+        "https://www.energystar.gov/products/energy_star_home_upgrade/clean_heating_cooling"
+      ]
+    },
+    {
+      "file": "maintenance/index.html",
+      "fragment": "/workspace/hvac-acceptance/content-expansions/maintenance.sections.html",
+      "fragment_sha256": "9b437746ad2652e368fbc26b0ff2ebf08e3b127d528cb307f7a80e4adfc81d1a",
+      "sections": 3,
+      "external_citation_occurrences": 3,
+      "unique_citations": [
+        "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center/Carbon-Monoxide-Questions-and-Answers",
+        "https://www.energystar.gov/saveathome/heating-cooling/maintenance-checklist"
+      ]
+    }
+  ],
+  "supplied_primary_citations": [
+    "https://climate.udel.edu/delawares-climate/",
+    "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center/Carbon-Monoxide-Questions-and-Answers",
+    "https://www.delmarva.com/about-us/company-information",
+    "https://www.demecinc.net/economic-development/seaford/",
+    "https://www.energystar.gov/products/energy_star_home_upgrade/clean_heating_cooling",
+    "https://www.energystar.gov/saveathome/heating-cooling/maintenance-checklist",
+    "https://www.nfpa.org/news-blogs-and-articles/blogs/2025/02/13/residential-fuel-gas-alarms-and-nfpa-715",
+    "https://www.seafordde.com/government/departments_offices/electric"
+  ],
+  "configured_base": "https://delmarvahomecomfortguide.com",
+  "publish_directory": "public",
+  "file_path_basis": "Route file and brand asset paths are relative to public/; manifest/tools/config remain at prototype root.",
+  "organization": {
+    "name": "Local Loop",
+    "id": "https://delmarvahomecomfortguide.com/#local-loop",
+    "provenance": "Atlas-reported Ryan confirmation; not independently verified; not publication authorization"
+  }
+}
